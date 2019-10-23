@@ -1090,46 +1090,92 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/pediatrician-visiting-parents-and-child-in-hospital-bed-4k-uhd-movie-3840x2160-rikvovnwl-thumbnail-full01-1920x1013.png");
+.cid-rEzpc2heYX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rEzl1y5PMN {
+.cid-rEzpiFIVXh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rEzpiFIVXh h2 {
+  margin-bottom: 0;
+}
+.cid-rEzpiFIVXh h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-rEzpiFIVXh p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rEzpiFIVXh .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rEzpiFIVXh .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-rEzpiFIVXh .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rFGYLQwq9e {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rEzl1y5PMN .content {
+  .cid-rFGYLQwq9e .content {
     text-align: center;
   }
-  .cid-rEzl1y5PMN .content > div:not(:last-child) {
+  .cid-rFGYLQwq9e .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rEzl1y5PMN .media-wrap {
+  .cid-rFGYLQwq9e .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rEzl1y5PMN .media-wrap .mbr-iconfont-logo {
+.cid-rFGYLQwq9e .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rEzl1y5PMN .media-wrap img {
+.cid-rFGYLQwq9e .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rEzl1y5PMN .footer-lower .copyright {
+  .cid-rFGYLQwq9e .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rEzl1y5PMN .footer-lower hr {
+.cid-rFGYLQwq9e .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rEzl1y5PMN .footer-lower .social-list {
+.cid-rFGYLQwq9e .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1139,26 +1185,50 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rEzl1y5PMN .footer-lower .social-list .mbr-iconfont-social {
+.cid-rFGYLQwq9e .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rEzl1y5PMN .footer-lower .social-list .soc-item {
+.cid-rFGYLQwq9e .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rEzl1y5PMN .footer-lower .social-list a {
+.cid-rFGYLQwq9e .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rEzl1y5PMN .footer-lower .social-list a:hover {
+.cid-rFGYLQwq9e .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rEzl1y5PMN .footer-lower .social-list {
+  .cid-rFGYLQwq9e .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
+  }
+}
+.cid-rFGRUkWZwM {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #e9b700;
+}
+.cid-rFGRUkWZwM .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFGRUkWZwM .section-text {
+  padding: 2rem 0;
+  text-align: center;
+}
+.cid-rFGRUkWZwM .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFGRUkWZwM .inner-container {
+    width: 100% !important;
   }
 }
 .cid-qTkzRZLJNu .navbar {
@@ -1542,52 +1612,191 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rEzpc2heYX {
+.cid-rFGPLbHQD1 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/hospital-plans-in-south-africa-2015-1225x817.jpg");
 }
-.cid-rEzpiFIVXh {
+.cid-rFGPLbHQD1 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rFGPLbHQD1 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rFGPLbHQD1 .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rFGQPT666I {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
-.cid-rEzpiFIVXh h2 {
+.cid-rFGQPT666I .card-box {
+  padding: 0 2rem;
+}
+.cid-rFGQPT666I .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rFGQPT666I .mbr-section-btn a {
+  margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-rEzpiFIVXh h4 {
+.cid-rFGQPT666I h4 {
   font-weight: 500;
   margin-bottom: 0;
-  width: 80%;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-rEzpiFIVXh p {
-  color: #767676;
+.cid-rFGQPT666I p {
   margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-rEzpiFIVXh .card-wrapper {
-  border-top: 1px solid #efefef;
+.cid-rFGQPT666I .mbr-text {
+  color: #767676;
+}
+.cid-rFGQPT666I .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rFGQPT666I .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rFGR1BLMwp {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
 }
-.cid-rEzpiFIVXh .card-wrapper .card-box {
-  padding: 2rem 1rem;
+.cid-rFGR1BLMwp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rFGR1BLMwp .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rFGR1BLMwp .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-rFGR1BLMwp .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rFGR1BLMwp .mbr-author-name {
+  color: #767676;
+}
+.cid-rFGR1BLMwp .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rFGR1BLMwp .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rFGR1BLMwp .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rFGR1BLMwp .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
-.cid-rEzpiFIVXh .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.cid-rFGR1BLMwp .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
 }
-.cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line {
-  width: 70%;
+@media (max-width: 300px) {
+  .cid-rFGR1BLMwp .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rEzl1y5PMN {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-rEzpiFIVXh .card-wrapper .card-box .bottom-line p {
+  .cid-rEzl1y5PMN .content {
     text-align: center;
-    margin: 1rem 0 0 0;
+  }
+  .cid-rEzl1y5PMN .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rEzl1y5PMN .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rEzl1y5PMN .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rEzl1y5PMN .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rEzl1y5PMN .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rEzl1y5PMN .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rEzl1y5PMN .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rEzl1y5PMN .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rEzl1y5PMN .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rEzl1y5PMN .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rEzl1y5PMN .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rEzl1y5PMN .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
